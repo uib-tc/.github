@@ -14,7 +14,7 @@ Aquest espai recull els materials docents, pràctiques i recursos de l'assignatu
 
 ## 📚 Apunts de l'assignatura
 
-La darrera versió està disponible a: [https://uib-software-security.github.io/book/](https://uib-software-security.github.io/book/).
+La darrera versió està disponible a: [https://uib-tc.github.io/book/](https://uib-tc.github.io/book/).
 
 ## Contacte i suport
 
