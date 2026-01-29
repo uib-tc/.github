@@ -1,24 +1,20 @@
-# Seguretat del Software
+# Teoria de la Computació
 
 ![Logo UIB](./img/logo-uib.png)
 
 > **Universitat de les Illes Balears**
 >
-> **Grau d'Enginyeria Telemàtica​**
+> **Grau d'Enginyeria Informàtica​**
 >
 > **Professor**: Miquel A. Cabot ([miquel.cabot@uib.cat](mailto:miquel.cabot@uib.cat))
 
 ## ℹ️ Descripció
 
-Aquest espai recull els materials docents, pràctiques i recursos de l'assignatura **Seguretat del Software** del grau d'Enginyeria Telemàtica (UIB).
+Aquest espai recull els materials docents, pràctiques i recursos de l'assignatura **Teoria de la Computació** del grau d'Enginyeria Informàtica (UIB).
 
 ## 📚 Apunts de l'assignatura
 
 La darrera versió està disponible a: [https://uib-software-security.github.io/book/](https://uib-software-security.github.io/book/).
-
-## 🧭 Repositori del curs acadèmic
-
-El repositori del curs acadèmic actual està disponible a: [https://github.com/uib-software-security/curs-2025-26](https://github.com/uib-software-security/curs-2025-26)
 
 ## Contacte i suport
 
